@@ -1,0 +1,1 @@
+The dataset of vital signs monitoring during physical activity using two IR-UWB radars is constructed. The physical activity includes one set of gentle yoga and two kinds of daily exercises. The main folder contains 9 sub-folders, one sub-folder named oxi contains all reference oximeter data, and the other 8 folders contain radar data of 8 paticipants, respectively. 
