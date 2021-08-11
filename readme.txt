@@ -1,1 +1,1 @@
-This repository contains records collected by two IR-UWB radars simultaneously for vital signs monitoring during physical activity. Three kinds of physical activity are conducted including one set of gentle yoga and two daily exercises. The folder named oxi contains all reference oximeter data, and the other 8 folders contain radar data of 8 paticipants, respectively. 
+This repository contains records collected by two IR-UWB radars simultaneously for vital signs monitoring during physical activity. 
